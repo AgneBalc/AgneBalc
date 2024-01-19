@@ -12,6 +12,14 @@ I'm fun to work with, I always like to learn new things from others as much as h
 
 <br/>
 
+## 💼 Projects
+
+- Product Feedback App: [Live Site URL](https://product-feedback-app-lilac.vercel.app/) / [Code](https://github.com/AgneBalc/product-feedback-app)
+- Photo Gallery: [Live Site URL](https://photo-gallery-ruddy.vercel.app/) / [Code](https://github.com/AgneBalc/react-typescript--photo-gallery)
+- Invoice App: [Live Site URL](https://react-invoice-app-tau.vercel.app/) / [Code](https://github.com/AgneBalc/react--invoice-app)
+
+<br/>
+
 ## 💼 Technical Skills
 <p >
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
