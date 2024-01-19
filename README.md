@@ -14,7 +14,6 @@ I'm fun to work with, I always like to learn new things from others as much as h
 
 ## 💼 Projects
 
-- Product Feedback App: [Live Site URL](https://product-feedback-app-lilac.vercel.app/) / [Code](https://github.com/AgneBalc/product-feedback-app)
 - Photo Gallery: [Live Site URL](https://photo-gallery-ruddy.vercel.app/) / [Code](https://github.com/AgneBalc/react-typescript--photo-gallery)
 - Invoice App: [Live Site URL](https://react-invoice-app-tau.vercel.app/) / [Code](https://github.com/AgneBalc/react--invoice-app)
 
