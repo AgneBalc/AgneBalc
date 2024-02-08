@@ -4,16 +4,12 @@
 <br/>
 I'm fun to work with, I always like to learn new things from others as much as helping others solve their problems. Let's connect and create exceptional web experiences together!
 
-- 🔭 I’m currently working on [Product Feedback App](https://github.com/AgneBalc/product-feedback-app)
-
-- 🌱 I’m currently learning **Next.js, PostgreSQL, Prisma**
-
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/agn%C4%97-bal%C4%8Di%C5%ABnien%C4%97-4aaa513b/)
-
+<br/>
 <br/>
 
 ## 💼 Projects
 
+- Product Feedback App: [Live Site URL](https://product-feedback-app-lilac.vercel.app/) / [Code](https://github.com/AgneBalc/product-feedback-app)
 - Photo Gallery: [Live Site URL](https://photo-gallery-ruddy.vercel.app/) / [Code](https://github.com/AgneBalc/react-typescript--photo-gallery)
 - Invoice App: [Live Site URL](https://react-invoice-app-tau.vercel.app/) / [Code](https://github.com/AgneBalc/react--invoice-app)
 
